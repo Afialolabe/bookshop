@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(218, 126, 14);
+}
+
+#title{
+    color: white;
+    font: 25px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    gap: 30px;
+    margin: 40px;
+}
+
+.first{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+    
+}
+.second{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+}
+.third{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+}
+.fourth{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+}
+#first_sec{
+    text-align: center;
+    padding: 10px;
+}
+#second_sec{
+    text-align: center;
+    padding: 10px;
+}
+#third_sec{
+    text-align: center;
+    padding: 10px;
+}
+#fourth_sec{
+    text-align: center;
+    padding: 10px;
+}
